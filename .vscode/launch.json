@@ -1,0 +1,427 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExCond",
+            "request": "launch",
+            "mainClass": "ExCond",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExCond2",
+            "request": "launch",
+            "mainClass": "ExCond2",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExRepet",
+            "request": "launch",
+            "mainClass": "ExRepet",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI001",
+            "request": "launch",
+            "mainClass": "URI001",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI002",
+            "request": "launch",
+            "mainClass": "URI002",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI003",
+            "request": "launch",
+            "mainClass": "URI003",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI004",
+            "request": "launch",
+            "mainClass": "URI004",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI005",
+            "request": "launch",
+            "mainClass": "URI005",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI006",
+            "request": "launch",
+            "mainClass": "URI006",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI007",
+            "request": "launch",
+            "mainClass": "URI007",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI008",
+            "request": "launch",
+            "mainClass": "URI008",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI009",
+            "request": "launch",
+            "mainClass": "URI009",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI010",
+            "request": "launch",
+            "mainClass": "URI010",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI011",
+            "request": "launch",
+            "mainClass": "URI011",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI012",
+            "request": "launch",
+            "mainClass": "URI012",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI014",
+            "request": "launch",
+            "mainClass": "URI014",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI015",
+            "request": "launch",
+            "mainClass": "URI015",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI016",
+            "request": "launch",
+            "mainClass": "URI016",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI018",
+            "request": "launch",
+            "mainClass": "URI018",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI020",
+            "request": "launch",
+            "mainClass": "URI020",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI021",
+            "request": "launch",
+            "mainClass": "URI021",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI035",
+            "request": "launch",
+            "mainClass": "URI035",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI037",
+            "request": "launch",
+            "mainClass": "URI037",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI038",
+            "request": "launch",
+            "mainClass": "URI038",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI04",
+            "request": "launch",
+            "mainClass": "URI04",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI040",
+            "request": "launch",
+            "mainClass": "URI040",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI041",
+            "request": "launch",
+            "mainClass": "URI041",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI042",
+            "request": "launch",
+            "mainClass": "URI042",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI043",
+            "request": "launch",
+            "mainClass": "URI043",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI044",
+            "request": "launch",
+            "mainClass": "URI044",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI046",
+            "request": "launch",
+            "mainClass": "URI046",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI047",
+            "request": "launch",
+            "mainClass": "URI047",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI048",
+            "request": "launch",
+            "mainClass": "URI048",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI049",
+            "request": "launch",
+            "mainClass": "URI049",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI050",
+            "request": "launch",
+            "mainClass": "URI050",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI051",
+            "request": "launch",
+            "mainClass": "URI051",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI052",
+            "request": "launch",
+            "mainClass": "URI052",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI060",
+            "request": "launch",
+            "mainClass": "URI060",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI1060",
+            "request": "launch",
+            "mainClass": "URI1060",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI1064",
+            "request": "launch",
+            "mainClass": "URI1064",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI1065",
+            "request": "launch",
+            "mainClass": "URI1065",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI1066",
+            "request": "launch",
+            "mainClass": "URI1066",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI1067",
+            "request": "launch",
+            "mainClass": "URI1067",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI1070",
+            "request": "launch",
+            "mainClass": "URI1070",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI1071",
+            "request": "launch",
+            "mainClass": "URI1071",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI1072",
+            "request": "launch",
+            "mainClass": "URI1072",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI1074",
+            "request": "launch",
+            "mainClass": "URI1074",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI1078",
+            "request": "launch",
+            "mainClass": "URI1078",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI1113",
+            "request": "launch",
+            "mainClass": "URI1113",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI1114",
+            "request": "launch",
+            "mainClass": "URI1114",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI1115",
+            "request": "launch",
+            "mainClass": "URI1115",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI1117",
+            "request": "launch",
+            "mainClass": "URI1117",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI1118",
+            "request": "launch",
+            "mainClass": "URI1118",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI1131",
+            "request": "launch",
+            "mainClass": "URI1131",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI1134",
+            "request": "launch",
+            "mainClass": "URI1134",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI1154",
+            "request": "launch",
+            "mainClass": "URI1154",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI1159",
+            "request": "launch",
+            "mainClass": "URI1159",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI136",
+            "request": "launch",
+            "mainClass": "URI136",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        }
+    ]
+}
