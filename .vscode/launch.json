@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Vetor07",
+            "request": "launch",
+            "mainClass": "Vetor07",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch Vetor06",
+            "request": "launch",
+            "mainClass": "Vetor06",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch Vetor05",
+            "request": "launch",
+            "mainClass": "Vetor05",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch Vetor04",
+            "request": "launch",
+            "mainClass": "Vetor04",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch vetor03",
+            "request": "launch",
+            "mainClass": "vetor03",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch Vetor02",
+            "request": "launch",
+            "mainClass": "Vetor02",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch Vetor01",
+            "request": "launch",
+            "mainClass": "Vetor01",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch exVetor",
+            "request": "launch",
+            "mainClass": "exVetor",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
