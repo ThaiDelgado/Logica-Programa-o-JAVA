@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Vetor09",
+            "request": "launch",
+            "mainClass": "Vetor09",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
+            "name": "Launch Vetor08",
+            "request": "launch",
+            "mainClass": "Vetor08",
+            "projectName": "Logica-Programacao-JAVA_c6225c28"
+        },
+        {
+            "type": "java",
             "name": "Launch Vetor07",
             "request": "launch",
             "mainClass": "Vetor07",
